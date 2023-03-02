@@ -1,0 +1,8 @@
+You can deploy your React project easily by using Netlify
+
+
+1. Sign up for Netlify
+2. Get your project Files (either download and unzip from scrimba or just upload VS code files)
+3. Drag and drop your folder to app.netlify.com/drop
+
+your app will be hosted (free teir limits?)
